@@ -1,6 +1,6 @@
 #!/bin/bash
 # Download from default channel
-conda install -y matplotlib seaborn numpy scipy scikit-learn pandas lightgbm tqdm ipython jupyter openpyxl
+conda install -y matplotlib seaborn numpy scipy scikit-learn pandas lightgbm tqdm ipython jupyter openpyxl xlrd
 conda install -y -c conda-forge xgboost
 
 # 使わないかも
