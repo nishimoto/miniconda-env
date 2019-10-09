@@ -15,7 +15,5 @@ bash Miniconda3-latest-MacOSX-x86_64.sh
 ### Create miniconda env
 
 ```bash
-conda env create --file myenv.yaml
+bash miniconda.sh
 ```
-
-prefixは自分で編集必要ありかも
