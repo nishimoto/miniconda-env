@@ -2,7 +2,8 @@
 nishimoto's miniconda env
 
 ## Todo
-①：Install miniconda
+
+### ①：Install miniconda
 
 以下のコマンドでもできると思われる。[公式ページ](https://docs.conda.io/en/latest/miniconda.html)も参照。
 
@@ -20,7 +21,7 @@ curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 bash Miniconda3-latest-Linux-x86_64.sh
 ```
 
-②：Create miniconda env
+### ②：Create miniconda env
 
 See also [miniconda.sh](https://github.com/nishimoto/miniconda-env/blob/master/miniconda.sh)
 
