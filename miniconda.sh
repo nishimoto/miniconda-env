@@ -4,3 +4,6 @@ conda install -y matplotlib seaborn numpy scipy scikit-learn pandas lightgbm tqd
 
 # Download from non-default channel.
 conda install -y -c conda-forge xgboost catboost
+
+# Optional - matplotlib-venn
+conda install -y -c conda-forge matplotlib-venn
