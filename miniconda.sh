@@ -7,3 +7,6 @@ conda install -y -c conda-forge xgboost catboost
 
 # Optional - matplotlib-venn
 conda install -y -c conda-forge matplotlib-venn
+
+# Optional - netrowkx
+conda install -c anaconda networkx
