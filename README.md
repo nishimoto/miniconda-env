@@ -35,3 +35,6 @@ conda install -y -c conda-forge xgboost catboost
 # Optional - matplotlib-venn
 conda install -y -c conda-forge matplotlib-venn
 ```
+
+※ matplotlibのバージョン3.1.1は罠
+https://github.com/matplotlib/matplotlib/issues/14675
